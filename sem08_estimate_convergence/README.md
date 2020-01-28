@@ -1,13 +1,13 @@
-Случайные величины
+Сходимости и свойства оценок
 =====
 
-## Материалы:
+## Материалы с семинара:
 
-Тут указать конкретные главы, которые можно почитать с их описанием.
+* [Тетрадка для семинара с подробным текстом](https://nbviewer.jupyter.org/github/hse-econ-data-science/eds_spring_2020/blob/master/sem08_estimate_convergence/sem08_estimates_convergence_full.ipynb)
+* Тут будут тетрадки с тем, как семинар прошёл у разных групп :)
+
 
 ## Ещё материалы:
 
-* [Про взаимосвязи между распределениями](http://www.math.wm.edu/~leemis/2008amstat.pdf)
-* [Набор интерактивных визуализаций по терверу и матстату](https://seeing-theory.brown.edu/index.html)
-* [15 распределений на все случаи жизни](https://habr.com/ru/post/311092/)
-* При создании этой недели довольно сильно использовались идеи из [первой главы книги Бориса Демешева по статистике в R.](https://bdemeshev.github.io/r_manual_book/)
+* [Хороший конспект про сходимости случайных величин](https://www.probabilitycourse.com/chapter7/7_2_8_solved_probs.php) с ручными задачками и их решениями
+* [Конспект с визуализацией сходимостей в R](https://nbviewer.jupyter.org/github/FUlyankin/r_probability/blob/master/end_seminars_2019/sem_3/3.1%20varka_and_converg.ipynb) от одного из семинаристов
