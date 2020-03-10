@@ -3,7 +3,7 @@
 
 ## Материалы с семинара:
 
-* Тетрадка для семинара с подробным текстом
+* [Скачать третий семинар](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hse-econ-data-science/eds_spring_2020/tree/master/sem03_AA2_problems) без смс и регистрации!
 
 Тетрадки с пар разных групп:
 
