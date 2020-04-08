@@ -7,6 +7,13 @@
 * [Таблица с вашими смещёнными и несостоятельными оценками](https://docs.google.com/spreadsheets/d/13YDDmS561QSkQukWqHnPn_3-aRkniD2trb_KhvsxMRA/edit#gid=0)
 * [Wiki-страница курса](http://wiki.cs.hse.ru/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%BE_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_(%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0))
 
+## Домашние задания и контрольные 
+
+* [Контест с первым дз.](https://official.contest.yandex.ru/contest/17893/problems/)
+
+
+
+
 ## Большой план маленьких побед
 
 Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
