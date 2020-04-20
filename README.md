@@ -10,7 +10,7 @@
 ## Домашние задания и контрольные 
 
 * [Контест с первым дз.](https://official.contest.yandex.ru/contest/17893/problems/)
-
+* [Контест с первой кр.](https://official.contest.yandex.ru/contest/18048/standings/)
 
 
 
