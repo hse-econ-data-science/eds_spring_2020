@@ -6,6 +6,7 @@
 * Любые вопросы можно задавать в [чат с технической поддержкой](https://t.me/data_science_economics_2020)
 * [Таблица с вашими смещёнными и несостоятельными оценками](https://docs.google.com/spreadsheets/d/13YDDmS561QSkQukWqHnPn_3-aRkniD2trb_KhvsxMRA/edit#gid=0)
 * [Wiki-страница курса](http://wiki.cs.hse.ru/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%BE_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_(%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0))
+* [Немного видосов с пар](https://www.youtube.com/playlist?list=PLEwK9wdS5g0rd3Hs4cu1z-3hDDiQjFC_Y)
 
 ## Домашние задания и контрольные 
 
