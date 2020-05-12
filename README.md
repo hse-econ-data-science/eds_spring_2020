@@ -13,6 +13,9 @@
 * [Контест с первым дз.](https://official.contest.yandex.ru/contest/17893/problems/)
 * [Контест с первой кр.](https://official.contest.yandex.ru/contest/18048/standings/)
 
+* [Контест для заливки второго дз.](https://official.contest.yandex.ru/contest/18311/problems/)
+
+
 
 
 ## Большой план маленьких побед
