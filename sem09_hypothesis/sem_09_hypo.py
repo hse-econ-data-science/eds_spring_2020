@@ -30,7 +30,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # 
 
 # %%
-nod = pd.read_csv('../nod_2020-05-17.csv')
+nod = pd.read_csv('nod_2020-05-17.csv')
 nod.head()
 
 # %% [markdown]
