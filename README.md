@@ -16,7 +16,7 @@
 * [Контест со вторым дз.](https://official.contest.yandex.ru/contest/18311/problems/)
 * [Контест со второй кр.](https://official.contest.yandex.ru/contest/18442/standings/)
 
-* [Бонусное ДЗ](https://docs.google.com/document/d/1u3OJLwXgMcK3rATvdBYsfAliqkdRt0dQsNNi8gNlRpg/edit?usp=sharing)
+* [Бонусное ДЗ.](https://docs.google.com/document/d/1u3OJLwXgMcK3rATvdBYsfAliqkdRt0dQsNNi8gNlRpg/edit?usp=sharing)
 
 
 
